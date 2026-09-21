@@ -20,7 +20,7 @@ nm_Walk(6, FwdKey)
 nm_Walk(2, LeftKey, FwdKey)
 nm_Walk(8, FwdKey)
 Send "{" FwdKey " down}{" RightKey " down}"
-Walk(11)
+Walk(14)
 send "{space down}{" RightKey " up}"
 HyperSleep(200)
 send "{space up}"
